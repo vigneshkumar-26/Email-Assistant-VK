@@ -1,78 +1,69 @@
-This is the Official repository of **Spring AI Masters** from EmbarkX.com
+# EMAIL-ASSISTANT-VK
 
-# The Ultimate Java and Spring Boot Mastery
+_Transforming Emails, Accelerating Productivity Daily_
 
-Welcome to your one-stop-shop for mastering Java and Spring Boot! This repository offers a comprehensive learning experience with high-quality resources and community support. Dive into over 150+ hours of premium content, with everything you need to excel at Java and Spring Boot development.
+![Last Commit](https://img.shields.io/badge/last%20commit-today-blue)
+![Java](https://img.shields.io/badge/java-43.0%25-blue)
+![Languages](https://img.shields.io/badge/languages-4-lightgrey)
 
-## 🎓 Learning Roadmap
+---
 
-Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
-Here’s a structured path to enhance your skills with detailed courses available:
+### 🛠 Built with the tools and technologies
 
-1. **[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (50+ Hours of Content)**
-2. **[Master Spring Boot Microservices](https://link.embarkx.com/microservices) (23+ Hours of Content)**
-3. **[Learn Java with 60+ Hours of Content](http://link.embarkx.com/java) (60+ Hours of Content)**
-4. **[Master Spring Security with React JS + OAuth2](https://link.embarkx.com/spring-security) (34+ Hours of Content)**
-5. **[Master IntelliJ IDEA](http://link.embarkx.com/intellij) (3+ Hours of Content)**
+![JSON](https://img.shields.io/badge/-JSON-informational)
+![Markdown](https://img.shields.io/badge/-Markdown-informational)
+![Spring](https://img.shields.io/badge/-Spring-green)
+![npm](https://img.shields.io/badge/-npm-red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
+![XML](https://img.shields.io/badge/-XML-blue)
+![Vite](https://img.shields.io/badge/-Vite-purple)
+![ESLint](https://img.shields.io/badge/-ESLint-purple)
+![Axios](https://img.shields.io/badge/-Axios-blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
 
+---
 
-## 🌟 With All Our Courses You Gain Access To
+## 📚 Table of Contents
 
-- 📝 **Notes:** Detailed and downloadable notes to accompany each lesson.
-- 💻 **Source Code:** Full access to the source code used in the tutorials.
-- 🤔 **Doubt Solving:** Responsive instructor and community support.
-- 🎥 **High-Quality HD Videos:** Easy to understand, high-definition video tutorials.
-- 🔄 **Free Lifetime Updates:** Continuous updates to course content at no extra cost.
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 
-## 📚 Why Choose This Mastery Series?
+---
 
-With this series, you're not just learning; you're preparing to dominate the field of Java and Spring Boot development. Our structured learning path ensures that you build your skills progressively, with each course designed to build on the knowledge gained from the previous one.
+## 📖 Overview
 
-### Join Us Now!
+**Email-Assistant-VK** is a versatile developer toolkit that integrates AI-driven communication, research, and transcription functionalities into your applications. The core features include:
 
-Start your journey today to become a master at Java and Spring Boot. Our community and expert instructors are here to support your learning every step of the way. **Enroll and start building your future, today!**
+- 🧩 **Puzzle Piece**: Modular architecture built with Spring Boot and React, enabling easy extension and customization.
+- ⚡ **Lightning Bolt**: Real-time API interactions for instant AI responses, enhancing user engagement.
+- 🧠 **Brain**: AI-powered chat, question-answering, and research assistance to streamline knowledge workflows.
+- 🎯 **Target**: Focused on developer productivity with well-structured source code, configurations, and seamless integration.
+- 🎙️ **Microphone**: Audio transcription capabilities for converting speech into text within the same ecosystem.
+- 🔗 **Link**: Supports cross-origin communication for smooth frontend-backend connectivity.
 
+---
 
+## 🚀 Getting Started
 
+### 🔧 Prerequisites
 
+This project requires the following dependencies:
 
-# Usage Policy for Course Materials
+- **Programming Language**: Java
+- **Package Managers**: Maven, npm
 
-## Instructor Information
+---
 
-**Instructor:** Faisal Memon  
-**Company:** [EmbarkX.com](http://www.embarkx.com)
+### ⚙️ Installation
 
-## Policy Overview
+**Build Email-Assistant-VK from source and install dependencies:**
 
-This document outlines the guidelines and restrictions concerning the use of course materials provided by EmbarkX, including but not limited to PDF presentations, code samples, and video tutorials.
+#### 1. Clone the repository
 
-### 1. Personal Use Only
-
-The materials provided in this course are intended for **your personal use only**. They are to be used solely for the purpose of learning and completing this course.
-
-### 2. No Unauthorized Sharing or Distribution
-
-You are **not permitted** to share, distribute, or publicly post any course materials on any websites, social media platforms, or other public forums without prior written consent from the instructor.
-
-### 3. Intellectual Property
-
-All course materials are protected by copyright laws and are the intellectual property of Faisal Memon and EmbarkX. Unauthorized use, reproduction, or distribution of these materials is **strictly prohibited**.
-
-### 4. Reporting Violations
-
-If you become aware of any unauthorized sharing or distribution of course materials, please report it immediately to [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com).
-
-### 5. Legal Action
-
-We reserve the right to take legal action against individuals or entities found to be violating this usage policy.
-
-## Thank You
-
-Thank you for respecting these guidelines and helping us maintain the integrity of our course materials.
-
-## Contact Information
-
-- **Email:** [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com)
-- **Website:** [www.embarkx.com](http://www.embarkx.com)
-
+```bash
+git clone https://github.com/vigneshkumar-26/Email-Assistant-VK
